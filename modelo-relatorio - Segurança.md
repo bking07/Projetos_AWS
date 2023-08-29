@@ -1,0 +1,34 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+
+Data: 29/08/2023
+Empresa: Grupo DPSP 
+Responsável: Alan Araújo
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Grupo DPSP, realizado por Alan Araujo de Jesus. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: 
+- Habilitar o IAM para gerenciar acessos e identidades.
+
+Medida 2: 
+- Implatar o AWS Shield Stand para proteção contra Ataques DDos.
+
+Medida 3: 
+- Habilitar AWS GuardDuty para analisar atividades da rede e da conta, detectar ameaças de forma inteligente, analisa resultados detalhados.
+
+
+## Conclusão
+A implementação de ferramentas na empresa Grupo DPSP tem como esperado adicionar mais segurança na infraestrutura na nuvem, além de defesas contra ataques DDoS e detectar de forma inteligente outras ameaças, aumentando a segurança, eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+## Anexos
+
+AWS Shield Stand - https://aws.amazon.com/pt/shield/
+
+AWS IAM - https://aws.amazon.com/pt/iam/
+
+AWS GuardDuty- https://aws.amazon.com/pt/guardduty/
+
+Responsável: Alan Araújo de Jesus
